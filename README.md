@@ -1,4 +1,4 @@
-# Using ES6 in Google Apps Script (example project)
+# Using ES6 & Node Modules in Google Apps Script (example project)
 
 This is an example project where we use ES6 features in [Google Apps Script](https://en.wikipedia.org/wiki/Google_Apps_Script)
 
